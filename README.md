@@ -1,8 +1,8 @@
 ### Hi, I'm Marco 👋
 
-- 🔭 I’m currently working on NLP
-- 🌱 I’m currently learning to become a product manager 
-- 
+- **About me:**
+ 
+*I am an economist that over the years become a data scientist. In the process, I fell in love with NLP techniques and I recently found out I might want to become a product manager :pushpin:*
 
 
 <!--
