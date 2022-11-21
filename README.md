@@ -2,22 +2,22 @@
 <img src="https://github.com/slashlan/slashlan/blob/main/name%26skills_banner_github.gif" width="900" height="100"/>
 </p>
 
-### About me
+## About me
  
 - *I am an economist that over the years has become a data scientist. In the process, I fell in love with interactive dashboards, NLP and I recently found out I might want to become a product manager :pushpin:*
 
-### I usually work with
+## I usually work with
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 
 
-### I have a fair knowledge also of
+## I have a fair knowledge also of
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
-### Here is what I am learning
+## Here is what I am learning
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
