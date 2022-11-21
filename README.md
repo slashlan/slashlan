@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Marco 👋
+
+- 🔭 I’m currently working on NLP
+- 🌱 I’m currently learning to become a product manager 
+- 
+
 
 <!--
 **slashlan/slashlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
