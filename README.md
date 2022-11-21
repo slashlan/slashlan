@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/slashlan/slashlan/blob/main/gif_data_scientist_1.gif" width="600" height="300"/>
+<img src="https://github.com/slashlan/slashlan/blob/main/name%26skills_banner_github.gif" width="900" height="100"/>
 </p>
 
 ### About me
@@ -27,6 +27,11 @@
 **slashlan/slashlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<p align="center">
+<img src="https://github.com/slashlan/slashlan/blob/main/gif_data_scientist_1.gif" width="600" height="300"/>
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
