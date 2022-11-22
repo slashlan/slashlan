@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/slashlan/slashlan/blob/main/name%26skills_banner_github.gif" width="900" height="100"/>
+<img src="https://raw.githubusercontent.com/slashlan/slashlan/main/name%26skills_banner_github.gif" width="900" height="100"/>
 </p>
 
 ## About me
