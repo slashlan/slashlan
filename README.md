@@ -15,6 +15,7 @@
 
 ## I have a fair knowledge also of
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
 ## Some examples of my work 
@@ -23,7 +24,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=slashlan&repo=businessprojects"/>
 
 ## Here is what I am learning now
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
 
