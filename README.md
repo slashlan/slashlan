@@ -4,7 +4,7 @@
 
 ## 	:wave: About me
  
-- *I am an economist that over the years has become a data scientist. In the process, I fell in love with interactive dashboards, NLP and I recently found out I might want to become a product manager :pushpin:*
+- *I am an economist that over the years has become a data scientist. In the process, I fell in love with interactive dashboards, NLP and I recently found out I want to become a product manager :pushpin:*
 
 
 ## :briefcase: I usually work with
