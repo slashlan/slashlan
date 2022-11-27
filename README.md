@@ -4,7 +4,7 @@
 
 ## 	:wave: About me
  
-- *I am an economist that over the years has become a data scientist. In the process, I fell in love with interactive dashboards, NLP and I recently found out I want to become a product manager :pushpin:*
+- *Data scientist with 7+ years of experience in preprocessing, analyzing and modelling data to provide actionable insights for governments and businesses. Curious and self-motivated, I am a quick learner who loves absorbing new ideas, enjoys teamwork and communicates effectively. Currently looking for a new adventure as product manager or data scientist in a product team.  :pushpin:*
 
 
 ## :briefcase: I usually work with
