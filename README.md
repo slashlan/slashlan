@@ -18,17 +18,18 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
+## :books: Here is what I am learning now
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+
+## :sparkles: Some examples of my work here below
+<!--
+
 ## :sparkles: Some examples of my work 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=WomenPlusPlus&repo=deploy-impact-22-openedu-e"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=slashlan&repo=standupcomedynlp"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=slashlan&repo=businessprojects"/>
 
-## :books: Here is what I am learning now
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
-
-
-<!--
 **slashlan/slashlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
