@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/slashlan/slashlan/main/name%26skills_banner_github.gif" width="900" height="100"/>
 </p>
 
-## 	:wave: About me
+## 	:pushpin: About me
  
-- *Data scientist with 7+ years of experience in processing, analyzing and modelling data to provide actionable insights for governments and businesses. Curious and self-motivated, I am a quick learner who loves absorbing new ideas, enjoys teamwork and communicates effectively. Currently looking for a new adventure in an analytics role or as product manager in a product team.  :pushpin:*
+- *Data scientist with 7+ years of experience in processing, analyzing and modelling data to provide actionable insights for governments and businesses. Curious and self-motivated, I am a quick learner who loves absorbing new ideas, enjoys teamwork and communicates effectively. Currently looking for a new adventure in an analytics role or as product manager in a product team.*
 
 
 ## :briefcase: I usually work with
